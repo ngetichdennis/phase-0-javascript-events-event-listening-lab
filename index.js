@@ -1,3 +1,4 @@
+//javascript events
 function addingEventListener() {
     const input=document.querySelector("#input");
     input.textContent=true
